@@ -1,0 +1,6 @@
+[package]
+name = "yuki-state-machine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
